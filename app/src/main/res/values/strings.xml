@@ -9,4 +9,10 @@
     <string name="passwordHint">password</string>
     <string name="loginButtonText">Login</string>
     <string name="registerButtonText">Register</string>
+    <string name="userButtonText">User</string>
+    <string name="recruiterButtonText">Recruiter</string>
+    <string name="companyButtonText">Company</string>
+    <string name="companyHint">GoApply</string>
+    <string name="companyPrompt">Enter your Company here:</string>
+    <string name="cancelText">Cancel</string>
 </resources>
