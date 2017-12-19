@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">GoApply</string>
+    <string name="welcomeText">Welcome to GoApply!\nBest of luck in your employment endeavors!</string>
+    <string name="continueToLogin">Continue To Login</string>
+    <string name="loginScreenText">Please login or register</string>
+    <string name="emailPrompt">Enter your email here:</string>
+    <string name="passwordPrompt">Enter your password here:</string>
+    <string name="emailHint">example@host.com</string>
+    <string name="passwordHint">password</string>
+    <string name="loginButtonText">Login</string>
+    <string name="registerButtonText">Register</string>
 </resources>
